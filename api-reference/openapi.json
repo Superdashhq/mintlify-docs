@@ -10,7 +10,7 @@
   },
   "servers": [
     {
-      "url": "https://catalystapi.superdashhq.com/api/"
+      "url": "https://api.superdashhq.com/api/"
     }
   ],
     "paths": {
